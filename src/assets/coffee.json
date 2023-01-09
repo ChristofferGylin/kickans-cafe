@@ -1,0 +1,76 @@
+{
+    "espresso": [
+        {
+            "name": "Ispirazione Firenze Arpeggio",
+            "tagline": "Intensiv & Krämig",
+            "intro": "Intensivt och krämigt kaffe.",
+            "text": "Denna utsökta kaffeblandning är en sann återspegling av Florens kulturella betydelse: En intellektuell knutpunkt i hjärtat av Italien med influencer från hela landet. Ispirazione Firenze Arpeggio kombinerar fruktiga toner som traditionellt finns i norra Italien med kakaotoner från söder som tillsammans skapar en sammetslen, tät och krämig kopp kaffe.",
+            "intensity": 9,
+            "aromaticProfile": "Intensiv & Krämig",
+            "roast": 4,
+            "acidity": 2,
+            "bitterness": 4,
+            "body": 4,
+            "img": "arpeggio.webp",
+            "timesOrdered": 0
+        },
+        {
+            "name": "Capriccio",
+            "tagline": "Fyllig & Utmärkande",
+            "intro": "Capriccio är en blandning av sydamerikanska Arabicabönor med ett inslag av Robustabönor. En espresso med rik arom och en karaktäristisk ton av korn.",
+            "text": "",
+            "intensity": 5,
+            "aromaticProfile": "Balanserad",
+            "roast": 2,
+            "acidity": 3,
+            "bitterness": 3,
+            "body": 2,
+            "img": "capriccio.webp",
+            "timesOrdered": 0
+        },
+        {
+            "name": "Volluto",
+            "tagline": "Sött & Lätt Kaffe",
+            "intro": "De Arabicabönor från Brasilien och Colombia som ger upphov till Volluto kommer från små odlingar där man framställer ett kaffe av ytterst hög kvalitet. Här odlas kaffet på miljövänligt och traditionsenligt sätt.",
+            "text": "",
+            "intensity": 4,
+            "aromaticProfile": "Sött & Lätt",
+            "roast": 2,
+            "acidity": 3,
+            "bitterness": 2,
+            "body": 2,
+            "img": "volluto.webp",
+            "timesOrdered": 0
+        }
+    ],
+    "lungo": [
+        {
+            "name": "Cape Town Envivo Lungo",
+            "tagline": "Rostad & Kraftfull",
+            "intro": "En djupt rostad, intensiv och fyllig kopp med en träaktiga aromer och kraftig bitterhet.",
+            "text": "Med Sydafrika som stopppunkt på de gamla handelsvägarna formades asiatiskt kaffe med den lokala smaken över tid. WORLD EXPLORATIONS CAPE TOWN ENVIVO LUNGO återspeglar denna preferens med en blandning av indisk Arabica och Robusta. Detta resulterar i vår mest intensiva Lungo, fyllig med en kraftig bitter ton och träig arom. Njut det som lokalbefolkningen: Tillsätt en skvätt mjölk för en silkeslen textur.",
+            "intensity": 10,
+            "aromaticProfile": "Rostad & träig",
+            "roast": 5,
+            "acidity": 1,
+            "bitterness": 4,
+            "body": 4,
+            "img": "capetown.webp",
+            "timesOrdered": 0
+        },
+        {
+            "name": "Stockholm Fortissio Lungo",
+            "tagline": "Rik & Fyllig",
+            "intro": "Ett intensivt kaffe med endast arabicabönor som bäst avnjuts svart för att känna av den rena smaken som svenskar älskar; maltigt med en rik bitterhet.",
+            "text": "Svenskar är bland världens största kaffekonsumenter. Om du vandrar runt i Stockholm hittar du ofta intensivt svart kaffe med maltiga noter som kommer från den distinkta Monsun arabican. WORLD EXPLORATIONS STOCKHOLM FORTISSIO LUNGO återskapar den aromatiska profilen av ett svenskt kaffe genom att kombinera Monsun Malabar med colombiansk Arabica för en intensiv, söt kopp kaffe med en aning bitterhet. Njut det som lokalbefolkningen: Avnjut din stora smakfulla kopp och kanelbullar tillsammans med vänner och familj.",
+            "intensity": 8,
+            "aromaticProfile": "Rostad & maltig",
+            "roast": 4,
+            "acidity": 2,
+            "bitterness": 3,
+            "body": 3,
+            "img": "stockholm.webp",
+            "timesOrdered": 0
+        }
+    ]
+}
