@@ -1,6 +1,7 @@
 {
     "espresso": [
         {
+            "id": "esp1",
             "name": "Ispirazione Firenze Arpeggio",
             "tagline": "Intensiv & Krämig",
             "intro": "Intensivt och krämigt kaffe.",
@@ -12,9 +13,11 @@
             "bitterness": 4,
             "body": 4,
             "img": "arpeggio.webp",
-            "timesOrdered": 0
+            "timesOrdered": 0,
+            "inStock": true
         },
         {
+            "id": "esp2",
             "name": "Capriccio",
             "tagline": "Fyllig & Utmärkande",
             "intro": "Capriccio är en blandning av sydamerikanska Arabicabönor med ett inslag av Robustabönor. En espresso med rik arom och en karaktäristisk ton av korn.",
@@ -26,9 +29,11 @@
             "bitterness": 3,
             "body": 2,
             "img": "capriccio.webp",
-            "timesOrdered": 0
+            "timesOrdered": 0,
+            "inStock": true
         },
         {
+            "id": "esp3",
             "name": "Volluto",
             "tagline": "Sött & Lätt Kaffe",
             "intro": "De Arabicabönor från Brasilien och Colombia som ger upphov till Volluto kommer från små odlingar där man framställer ett kaffe av ytterst hög kvalitet. Här odlas kaffet på miljövänligt och traditionsenligt sätt.",
@@ -40,11 +45,13 @@
             "bitterness": 2,
             "body": 2,
             "img": "volluto.webp",
-            "timesOrdered": 0
+            "timesOrdered": 0,
+            "inStock": true
         }
     ],
     "lungo": [
         {
+            "id": "lun1",
             "name": "Cape Town Envivo Lungo",
             "tagline": "Rostad & Kraftfull",
             "intro": "En djupt rostad, intensiv och fyllig kopp med en träaktiga aromer och kraftig bitterhet.",
@@ -56,9 +63,11 @@
             "bitterness": 4,
             "body": 4,
             "img": "capetown.webp",
-            "timesOrdered": 0
+            "timesOrdered": 0,
+            "inStock": true
         },
         {
+            "id": "lun2",
             "name": "Stockholm Fortissio Lungo",
             "tagline": "Rik & Fyllig",
             "intro": "Ett intensivt kaffe med endast arabicabönor som bäst avnjuts svart för att känna av den rena smaken som svenskar älskar; maltigt med en rik bitterhet.",
@@ -70,7 +79,8 @@
             "bitterness": 3,
             "body": 3,
             "img": "stockholm.webp",
-            "timesOrdered": 0
+            "timesOrdered": 1,
+            "inStock": true
         }
     ]
 }
